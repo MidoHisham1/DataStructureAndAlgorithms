@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Computer 2\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD82E3C1-8A44-4067-A69C-36D8F95A868D}|DataStructureAndAlgorithms\\DataStructureAndAlgorithms.csproj|i:\\computer 2\\datastructureandalgorithms\\datastructureandalgorithms\\datastructureandalgorithms\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD82E3C1-8A44-4067-A69C-36D8F95A868D}|DataStructureAndAlgorithms\\DataStructureAndAlgorithms.csproj|solutionrelative:datastructureandalgorithms\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD82E3C1-8A44-4067-A69C-36D8F95A868D}|DataStructureAndAlgorithms\\DataStructureAndAlgorithms.csproj|i:\\computer 2\\datastructureandalgorithms\\datastructureandalgorithms\\datastructureandalgorithms\\datastructureandalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD82E3C1-8A44-4067-A69C-36D8F95A868D}|DataStructureAndAlgorithms\\DataStructureAndAlgorithms.csproj|solutionrelative:datastructureandalgorithms\\datastructureandalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataStructureAndAlgorithms.cs",
+              "DocumentMoniker": "I:\\Computer 2\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms.cs",
+              "RelativeDocumentMoniker": "DataStructureAndAlgorithms\\DataStructureAndAlgorithms.cs",
+              "ToolTip": "I:\\Computer 2\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms.cs",
+              "RelativeToolTip": "DataStructureAndAlgorithms\\DataStructureAndAlgorithms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:54:59.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "I:\\Computer 2\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\LinkedList.cs",
+              "RelativeDocumentMoniker": "DataStructureAndAlgorithms\\LinkedList.cs",
+              "ToolTip": "I:\\Computer 2\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\LinkedList.cs",
+              "RelativeToolTip": "DataStructureAndAlgorithms\\LinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:47:22.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
