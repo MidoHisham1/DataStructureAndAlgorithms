@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace DataStructureAndAlgorithms
 {
-    public class LinkedList<T> : IEnumerable<T> where T : class
+    public class LinkedList<T> : IEnumerable<T> where T : IComparable<T>
     {
 
 
@@ -80,13 +80,12 @@ namespace DataStructureAndAlgorithms
             if (data == null)
                 throw new NullReferenceException("data` parameter shouldn't be null");
 
-            EqualityComparer<T> comparer = EqualityComparer<T>.Default;
 
             Node pointer = head;
 
             while (pointer != null)
             {
-                if (comparer.Equals(pointer.data, data))
+                if (pointer.data.CompareTo(data) == 0)
                     return true;
 
                 pointer = pointer.next;
@@ -136,7 +135,6 @@ namespace DataStructureAndAlgorithms
             if (head == tail)
                 RemoveFirst();
 
-            EqualityComparer<T> comparer = EqualityComparer<T>.Default;
 
             Node? current = head;
             Node? previous = null;
@@ -144,20 +142,21 @@ namespace DataStructureAndAlgorithms
             while (head.next != null)
             {
 
-                if (comparer.Equals(current.data, data))
+
+                if (current.data.CompareTo(data) == 0)
                 {
                     previous.next = current.next;
-                    current = current.next;
 
-                    return data;
+                    return current.data;
                 }
 
+                
                 previous = current;
                 current = current.next;
 
             }
 
-            return null;
+            throw new InvalidOperationException("${data} cannot be found");
 
         }
 
