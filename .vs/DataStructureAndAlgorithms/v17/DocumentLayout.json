@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "DataStructureAndAlgorithms\\Stack.cs",
               "ToolTip": "I:\\Computer 2\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\DataStructureAndAlgorithms\\Stack.cs",
               "RelativeToolTip": "DataStructureAndAlgorithms\\Stack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T18:47:23.37Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "DataStructureAndAlgorithms\\DataStructureAndAlgorithms.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T21:54:59.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T21:54:59.53Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "DataStructureAndAlgorithms\\LinkedList.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAiwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T13:47:22.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-20T13:47:22.768Z"
             }
           ]
         }
